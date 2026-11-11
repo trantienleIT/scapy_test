@@ -1,0 +1,1 @@
+add logs for test3.txt

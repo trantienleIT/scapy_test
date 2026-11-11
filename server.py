@@ -7,7 +7,6 @@ import socket
 import threading
 import time
 
-#add logs for test3.txt
 # Server Configuration
 SERVER_IP = "192.168.1.3"
 CLIENT_IP = "192.168.1.115"

@@ -11,4 +11,4 @@ pipeline {
         }
         // ... (rest of the pipeline as in previous response)
     }
-}
+}//add logs for test3.txt

@@ -12,6 +12,7 @@ CLIENT_IP = "192.168.1.115"
 UDP_PORT = 62006
 CAN_INTERFACE = "vcan0"
 
+#add logs for test3.txt
 # CAN Client: Send a CAN packet
 def can_client():
     try:

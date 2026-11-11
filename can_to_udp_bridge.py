@@ -51,3 +51,5 @@
            threading.Thread(target=can_to_udp).start()
            threading.Thread(target=udp_to_can).start()
        ```
+       
+       #add logs for test3.txt
